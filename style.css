@@ -1,5 +1,30 @@
-#titulo{
-    text-align: center;
-    font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
+#celular{
+    display: block;
+    max-width:70%;
+    height: 65%;
+}
+.slogan{
+    padding-left: 2%;
+    text-align: justify;
+    font-size: x-large;
+    font-style: italic;
+}
+#tiendas{
+    padding-left: 2%;
+    text-align: justify;
+    font-size: x-large;
+    font-style: italic;
+    background-color: rgb(156, 156, 155);
+}
+#logo{
+    display: block;
+    max-width: 45%;
+    height: 45%;
+    padding: 2%;
+}
+#logo2{
+    display: block;
+    max-width: 45%;
+    height: 45%;
+    padding: 2%;
 }
